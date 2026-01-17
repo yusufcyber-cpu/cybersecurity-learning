@@ -1,33 +1,14 @@
-# 👋 Hi, I'm Yusuf Ahmad
+## 🧪 Hands-On Practice (TryHackMe)
 
-🎯 Aspiring Cybersecurity Analyst | Computer Engineering Graduate  
-📍 Nigeria
+I am using TryHackMe to build practical cybersecurity skills, including:
+- Linux fundamentals
+- Networking basics
+- SOC analyst paths
+- Blue team defensive skills
 
-## 🔐 Career Focus
-I am currently building skills to start a career in cybersecurity, focusing on:
-- SOC (Security Operations Center) Analyst skills
-- Threat detection and incident response
-- Hands-on labs and certifications
+### Planned Rooms
+- Pre Security Path
+- Intro to Cyber Security
+- SOC Level 1 Path
 
-## 📚 Current Learning
-- Google Cybersecurity Professional Certificate
-- TryHackMe labs
-- Preparing for CompTIA Security+
-
-## 🛠️ Skills (Growing)
-- Networking fundamentals
-- Linux basics
-- Security concepts
-- Log analysis (beginner)
-
-## 📂 Projects
-This repository will contain:
-- Practice labs
-- Write-ups from TryHackMe
-- Small security scripts
-- Notes and learning summaries
-
-## 📫 Connect with Me
-- LinkedIn: (add your LinkedIn link here)
-
-I am open to learning, collaboration, and entry-level opportunities in cybersecurity.
+Progress updates and write-ups will be added here.
