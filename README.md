@@ -1,15 +1,33 @@
-# Cybersecurity Learning Journey
+# 👋 Hi, I'm Yusuf Ahmad
 
-Hi, my name is Yusuf.  
-I am transitioning into cybersecurity and currently building skills in:
+🎯 Aspiring Cybersecurity Analyst | Computer Engineering Graduate  
+📍 Nigeria
 
-- Google Cybersecurity Certificate
+## 🔐 Career Focus
+I am currently building skills to start a career in cybersecurity, focusing on:
+- SOC (Security Operations Center) Analyst skills
+- Threat detection and incident response
+- Hands-on labs and certifications
+
+## 📚 Current Learning
+- Google Cybersecurity Professional Certificate
 - TryHackMe labs
-- Security operations (SOC)
+- Preparing for CompTIA Security+
 
+## 🛠️ Skills (Growing)
+- Networking fundamentals
+- Linux basics
+- Security concepts
+- Log analysis (beginner)
+
+## 📂 Projects
 This repository will contain:
-- Learning notes
-- Lab write-ups
-- Small projects
+- Practice labs
+- Write-ups from TryHackMe
+- Small security scripts
+- Notes and learning summaries
 
-Goal: Become a Security Analyst.
+## 📫 Connect with Me
+- LinkedIn: (add your LinkedIn link here)
+
+I am open to learning, collaboration, and entry-level opportunities in cybersecurity.
